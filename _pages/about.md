@@ -45,7 +45,7 @@ Experience
       <div class="experience-info">
           <strong>Unitree</strong><br>
           Mar 2026 - May 2026<br>
-          AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Robotics</em></a>
+          AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Unitree Robotics</em></a>
       </div>
   </div>
 
