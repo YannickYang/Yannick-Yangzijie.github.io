@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering (2024.9 - present), and an AGI Algorithm Engineer intern at [Unitree Robotics](https://github.com/unitreerobotics) (2026.6 - present).
+I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer intern at [Unitree Robotics](https://github.com/unitreerobotics).
 
 Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
-I got my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University (2020.9 - 2024.6).
+I got my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University.
 
 News
 ---------------
@@ -19,10 +19,6 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/06</span>
-      <span class="profile-list__content">Started as an AGI Algorithm Engineer intern at <b>Unitree Robotics</b>.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2026/05</span>
       <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at <b>SwitchBot</b>.</span>
     </li>
     <li class="profile-list__item">
@@ -53,7 +49,7 @@ Experience
       <img src="images/SwitchBot.jpg" alt="SwitchBot logo" class="experience-logo">
       <div class="experience-info">
           <strong>SwitchBot</strong><br>
-          Mar 2026 - May 2026<br>
+          Mar 2026 - Jun 2026<br>
           VLA Algorithm Engineer Intern at <a href="https://github.com/OpenWonderLabs"><em>OneRobotics</em></a>
       </div>
   </div>
