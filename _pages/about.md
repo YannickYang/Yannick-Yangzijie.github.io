@@ -167,7 +167,7 @@ Publications
 
 <div class="publication-card featured">
   <div>
-      <strong>Patent: Multimodal-Medical-LLM-based Control Method and System for Orthopedic Endoscope-Holding Robots</strong><br>
+      <strong>Patent: Multimodal QA-LLM-based Control Method and System for Endoscope-Holding Robots</strong><br>
       <i style="font-size: 13px;">Zijiang Chen, Wenqing Wei, Shujian Zhang, <span class="self-author">Zijie Yang</span>, Yu Han, Jianqing Peng</i><br>
       Chinese Invention Patent No. ZL 2024109974648. Granted 2025-05-06.
       <br>
