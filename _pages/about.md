@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am a second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/), [School of Intelligent Systems Engineering](https://sist.sysu.edu.cn/), advised by [Prof. Jianqing Peng](https://sist.sysu.edu.cn/) and [Prof. Wanquan Liu](https://sist.sysu.edu.cn/).
+I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering (2024.9 - present).
 
-My research focuses on **Vision-Language-Action (VLA) models**, **imitation learning**, and **surgical robotics** — in particular, visual servoing and closed-loop control for robot-assisted minimally invasive surgery.
+Previously, I interned at [Unitree Robotics](https://github.com/unitreerobotics) and [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
-I received my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University (2020.09 - 2024.06), where I was ranked in the top 20% of my class.
+I got my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University (2020.9 - 2024.6).
 
 News
 ---------------
