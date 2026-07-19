@@ -11,7 +11,7 @@ I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.e
 
 Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
-I got my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University.
+I got my B.Eng. degree in Intelligent Science and Technology from [Sun Yat-sen University](https://ise.sysu.edu.cn/).
 
 News
 ---------------
