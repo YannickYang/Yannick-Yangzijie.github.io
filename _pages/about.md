@@ -87,7 +87,7 @@ Publications
   </div>
 </div>
 
-<div class="publication-card featured">
+<div class="publication-card non-featured">
   <div style="display: flex; align-items: center;">
     <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
@@ -103,7 +103,7 @@ Publications
   </div>
 </div>
 
-<div class="publication-card featured">
+<div class="publication-card non-featured">
   <div style="display: flex; align-items: center;">
     <img src="images/Binocular.png" alt="Biomimetic" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
@@ -118,7 +118,7 @@ Publications
   </div>
 </div>
 
-<div class="publication-card featured">
+<div class="publication-card non-featured">
   <div style="display: flex; align-items: center;">
     <img src="images/Adaptive.jpg" alt="Adaptive HRI" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
