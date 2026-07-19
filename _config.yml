@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : Yannick
 description              : &description "Master's student at Sun Yat-sen University, working on VLA models and surgical robotics."
 url                      : https://yannickyang.github.io
-baseurl                  : "/Yannick-Yangzijie.github.io" # site lives at username.github.io/<repo-name>/ because the repo name doesn't match the account name
-repository               : "YannickYang/Yannick-Yangzijie.github.io"
+baseurl                  : "" # site is hosted at the user root (repo name matches account name)
+repository               : "YannickYang/YannickYang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
