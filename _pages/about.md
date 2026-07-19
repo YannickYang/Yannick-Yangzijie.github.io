@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer intern at [Unitree Robotics](https://github.com/unitreerobotics).
+I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree Robotics](https://github.com/unitreerobotics).
 
 Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
@@ -19,7 +19,7 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/06</span>
-      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at <b>SwitchBot</b> and joined <b>Unitree Robotics</b> as an AGI Algorithm Engineer intern.</span>
+      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at SwitchBot and joined Unitree Robotics as an AGI Algorithm Engineer internship.</span>
     </li>
   </ul>
 </section>
