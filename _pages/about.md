@@ -60,7 +60,7 @@ Experience
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
           Sep 2024 - present<br>
-          M.Eng. student at <a href="https://sist.sysu.edu.cn/"><em>School of Intelligent Systems Engineering</em></a>. GPA 87 (1/64). First-class scholarship 2026.
+          M.Eng. in Electronic Information at <a href="https://sist.sysu.edu.cn/"><em>School of Intelligent Systems Engineering</em></a>. GPA 87 (1/64). First-class scholarship 2026.
       </div>
   </div>
 
@@ -224,6 +224,10 @@ Awards
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026</span>
+      <span class="profile-list__content"><b>Silver Medal, 51st International Exhibition of Inventions of Geneva</b> — for research on control of hyper-redundant robots in confined space.</span>
+    </li>
+    <li class="profile-list__item">
+      <span class="profile-list__date">2026</span>
       <span class="profile-list__content">First-class Graduate Scholarship, Sun Yat-sen University</span>
     </li>
     <li class="profile-list__item">
@@ -232,7 +236,7 @@ Awards
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2022</span>
-      <span class="profile-list__content">First Prize, Guangdong Mathematical Modeling Contest</span>
+      <span class="profile-list__content">First Prize (Guangdong), CCF Collegiate Programming Contest — Tianti Competition</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2022</span>
@@ -240,7 +244,7 @@ Awards
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2022</span>
-      <span class="profile-list__content">First Prize, RoboCup China Open</span>
+      <span class="profile-list__content">National Third Prize, China Robot Competition & RoboCup China Open</span>
     </li>
   </ul>
 </section>
