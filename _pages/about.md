@@ -19,15 +19,7 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/06</span>
-      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at <b>SwitchBot</b>.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025/09</span>
-      <span class="profile-list__content">Paper accepted to <b>IROS 2026</b> — Structured Framework for Physics-Guided Residual Modeling and Hybrid IK–RL Control of Tendon-Driven Continuum Robots.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025/06</span>
-      <span class="profile-list__content">Paper accepted to <b>Advanced Intelligent Systems</b> (JCR Q1, IF=6.1) — A Multi-Instrument Recognition and Autonomous Tracking Control Method for Robot-Assisted Endoscopic Adjustment.</span>
+      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at <b>SwitchBot</b> and joined <b>Unitree Robotics</b> as an AGI Algorithm Engineer intern.</span>
     </li>
   </ul>
 </section>
