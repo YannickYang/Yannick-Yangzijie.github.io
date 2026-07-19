@@ -266,7 +266,9 @@
   }
 
   li > a > i,
-  li > a > .icon {
+  li > a > .icon,
+  li > i,
+  li > .icon {
     width: 1.75em;
     height: 1.75em;
     display: inline-flex;
