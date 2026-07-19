@@ -172,6 +172,7 @@ Publications
       Chinese Invention Patent No. ZL 2024109974648. Granted 2025-05-06.
       <br>
       <b><i style="color:#83a1c7;">Patent, 2024 &nbsp;</i></b>
+      <a href="https://patents.google.com/patent/CN118664603A/en"><em>[patent]</em></a>
   </div>
 </div>
 
@@ -182,6 +183,7 @@ Publications
       Chinese Invention Patent No. ZL 202311805261.6. Granted 2025-05-06.
       <br>
       <b><i style="color:#83a1c7;">Patent, 2023 &nbsp;</i></b>
+      <a href="https://patents.google.com/patent/CN117901090A/zh"><em>[patent]</em></a>
   </div>
 </div>
 
