@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zijie Yang / Homepage"
+title                    : "Yannick Yang / Homepage"
 title_separator          : "-"
-name                     : Zijie
+name                     : Yannick
 description              : &description "Master's student at Sun Yat-sen University, working on VLA models and surgical robotics."
 url                      : https://yannickyang.github.io
 baseurl                  : "/Yannick-Yangzijie.github.io" # site lives at username.github.io/<repo-name>/ because the repo name doesn't match the account name
