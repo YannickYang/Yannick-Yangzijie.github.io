@@ -19,11 +19,11 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/05</span>
-      <span class="profile-list__content">Finished my VLA algorithm engineer internship at <b>Galaxy General</b>.</span>
+      <span class="profile-list__content">Finished internships at <b>Unitree Robotics</b> and <b>SwitchBot</b>, working on VLA post-training, world-model conditioning, and dual-arm deployment.</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2026/03</span>
-      <span class="profile-list__content">Started as an AGI algorithm engineer intern at <b>Galaxy General</b>, working on baseline model pretraining and finetuning of VLA models.</span>
+      <span class="profile-list__content">Started as an AGI algorithm engineer intern at <b>Unitree Robotics</b> and as a VLA algorithm engineer intern at <b>SwitchBot</b>.</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2025/09</span>
@@ -42,17 +42,17 @@ Experience
 <div class="experience-container">
   <div class="experience-card">
       <div class="experience-info">
-          <strong>Galaxy General (银河通用)</strong><br>
+          <strong><a href="https://www.unitree.com/">Unitree Robotics (宇树科技)</a></strong><br>
           Mar 2026 - May 2026<br>
-          AGI Algorithm Engineer Intern &mdash; VLA pretraining/finetuning, world-model conditioning, spatial-event graph construction.
+          AGI Algorithm Engineer Intern &mdash; second-stage pretraining and finetuning of baseline VLA models across 32 tasks; Cosmos2 finetuning for future-frame prediction alongside the VLA backbone; construction of a Momagraph-style spatial–functional graph on top of the VLA/WAM stack for long-horizon subtasks; end-to-end pipeline for Dreamzero (Pico teleoperation → heuristic DAgger → deployment).
       </div>
   </div>
 
   <div class="experience-card">
       <div class="experience-info">
-          <strong>Zhipeng Technology (智澎科技)</strong><br>
+          <strong><a href="https://www.switch-bot.com/">SwitchBot (卧安科技)</a></strong><br>
           Mar 2026 - May 2026<br>
-          VLA Algorithm Engineer Intern &mdash; training and deploying in-house VLA models (Kai0, VLAsh) on real dual-arm robots.
+          VLA Algorithm Engineer Intern &mdash; post-training and optimization of in-house household VLA models (Kai0, VLAsh) with MA+SA schemes and heuristic-DAgger data pipelines; on-robot inference testing and deployment on a real dual-arm platform; reproduction and extension of the Kai0 architecture with BAGEL-learned per-subtask subgoals and future-frame generation (CoRL submission); architecture refactoring and automated inference/logging via a Vibe-coding CLI.
       </div>
   </div>
 
